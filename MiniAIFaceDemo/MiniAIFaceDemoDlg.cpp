@@ -956,7 +956,7 @@ void CMiniAIFaceDemoDlg::OnBnClickedBtnCamera()
 		GetDlgItem(IDC_EDIT_THRESHOLD)->EnableWindow(TRUE);
 		GetDlgItem(IDC_BTN_COMPARE)->EnableWindow(FALSE);
 		GetDlgItem(IDC_BTN_RECOGNITION)->EnableWindow(FALSE);
-		GetDlgItem(IDC_BTN_CAMERA)->SetWindowText("Turn Off camera");
+		GetDlgItem(IDC_BTN_CAMERA)->SetWindowText("Off camera");
 
 		//FD thread
 		m_hFDThread = CreateThread(
@@ -1035,7 +1035,7 @@ void CMiniAIFaceDemoDlg::OnBnClickedBtnCamera()
 			::CloseHandle(m_hFRThread);
 		}
 
-		GetDlgItem(IDC_BTN_CAMERA)->SetWindowText("Turn on Camera");
+		GetDlgItem(IDC_BTN_CAMERA)->SetWindowText("open camera");
 	}
 }
 
@@ -1263,6 +1263,8 @@ unsigned long _stdcall RunFaceFeatureOperation(LPVOID lpParam)
 		}
 
 		//send a copy to live
+		MAI_SingleFaceInfo singleFaceInfo = dialog->m_curFaceInfo;
+
 		multiFaceInfo.faceNum = 1;
 		multiFaceInfo.faceOrient[0] = dialog->m_curFaceInfo.faceOrient;
 		multiFaceInfo.faceRect[0] = dialog->m_curFaceInfo.faceRect;
@@ -1365,7 +1367,7 @@ unsigned long _stdcall RunFaceFeatureOperation(LPVOID lpParam)
 
 		//feature extraction
 		detectRes = dialog->m_videoFaceEngine.PreExtractFeature(tempImage,
-			faceFeature, dialog->m_curFaceInfo);
+			faceFeature, singleFaceInfo);
 
 		cvReleaseImage(&tempImage);
 
@@ -1422,6 +1424,11 @@ unsigned long _stdcall RunFaceFeatureOperation(LPVOID lpParam)
 void CMiniAIFaceDemoDlg::IplDrawToHDC(BOOL isVideoMode, IplImage* rgbImage, CRect& strShowRect, UINT ID)
 {
 	if (!rgbImage)
+	{
+		return;
+	}
+
+	if (rgbImage->width <= 0 || rgbImage->height <= 0)
 	{
 		return;
 	}

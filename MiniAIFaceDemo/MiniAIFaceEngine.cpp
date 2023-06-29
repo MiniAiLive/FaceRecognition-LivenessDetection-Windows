@@ -165,10 +165,15 @@ MRESULT MiniAIFaceEngine::PreDetectFace(IplImage* image, MAI_SingleFaceInfo& fac
 		return -1;
 	}
 
+	if (image->width <= 0 || image->height <= 0)
+	{
+		return -1;
+	}
+
 	IplImage* cutImg = NULL;
 	MRESULT res = MOK;
 	MAI_MultiFaceInfo detectedFaces = { 0 };//Face Detection
-	
+	cout << image->width << "," << image->height;
 	if (isRGB)
 	{
 		cutImg = cvCreateImage(cvSize(image->width - (image->width % 4), image->height),
@@ -288,6 +293,11 @@ MRESULT MiniAIFaceEngine::UnInitEngine()
 void PicCutOut(IplImage* src, IplImage* dst, int x, int y)
 {
 	if (!src || !dst)
+	{
+		return;
+	}
+
+	if (dst->width <=0 || dst->height <=0)
 	{
 		return;
 	}
