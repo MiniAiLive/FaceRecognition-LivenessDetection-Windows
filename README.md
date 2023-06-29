@@ -27,6 +27,21 @@ Clone the repository:
 ```java 
 git clone https://github.com/MiniAI/MiniAIFaceSDK.git
 ```
+
+### Download
+
+- [Download `vcredist_x64.exe` from Microsoft](https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe)
+- [Download `vc_redist.x64.exe` from Microsoft](https://download.microsoft.com/download/9/3/F/93FCF1E7-E6A4-478B-96E7-D4B285925B00/vc_redist.x64.exe)
+```java
+1. Download the `vcredist_x64.exe`, and `vc_redist.x64.exe` files from the provided link.
+2. Double-click the downloaded file to start the installation.
+3. Follow the on-screen instructions to complete the installation process.
+4. Restart your system if prompted.
+
+For more detailed installation instructions, please refer to the [official Microsoft documentation](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redistributable).
+
+```
+
 ### Usage
 Run the compiled executable:
 ```java 
