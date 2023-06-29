@@ -1,13 +1,4 @@
 *.ipch
-.vs/ArcFaceDemo/FileContentIndex/53897529-f861-49c0-8ff1-fe5bf1fb09f9.vsidx
-.vs/ArcFaceDemo/FileContentIndex/b70d81d7-99e7-4728-8663-49bd18acb360.vsidx
-.vs/ArcFaceDemo/FileContentIndex/read.lock
-.vs/ArcFaceDemo/v16/.suo
-.vs/ArcFaceDemo/v17/.suo
-.vs/ArcFaceDemo/v17/Browse.VC.db
-.vs/ArcFaceDemo/v17/Browse.VC.db-shm
-.vs/ArcFaceDemo/v17/Browse.VC.db-wal
-.vs/ArcFaceDemo/v17/Browse.VC.opendb
 *.recipe
 *.ilk
 *.log
@@ -22,8 +13,6 @@
 *.ipdb
 *.txt
 *.vsidx
-*.dll
-*.lib
 *.db
 *.db-shm
 *.db-wal
