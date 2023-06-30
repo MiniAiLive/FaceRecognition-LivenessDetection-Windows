@@ -73,5 +73,5 @@ For any inquiries or questions, please contact us at info@miniai.live.
 <p align="center">
 <a target="_blank" href="https://t.me/miniai_contact"><img src="https://img.shields.io/badge/telegram-@MiniAI-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
 <a target="_blank" href="https://wa.me/+18622482217"><img src="https://img.shields.io/badge/whatsapp-MiniAI-blue.svg?logo=whatsapp" alt="www.miniai.live"></a>&emsp;
-<a target="_blank" href="skype:live:.cid.5301b7bd12e52acc?chat"><img src="https://img.shields.io/badge/skype-MiniAI-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="skype:live:.cid.d6bad41bc5a839e?chat"><img src="https://img.shields.io/badge/skype-MiniAI-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
 </p>
