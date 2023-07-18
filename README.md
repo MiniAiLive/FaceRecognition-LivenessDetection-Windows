@@ -1,6 +1,6 @@
-# MiniAILive Face Recognition C++ SDK
+# MiniAiLive Face Recognition C++ SDK
 ![miniai_logo_1_1](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/d6f693ab-1865-4f4e-b73f-fabdfe5a88f2)
-## Welcome to the MiniAI Face Recognition C++ SDK!
+## Welcome to the MiniAiLive Face Recognition C++ SDK!
 This repository contains a C++ application that demonstrates face recognition capabilities using computer vision techniques. The demo utilizes OpenCV and dlib libraries for efficient face detection and recognition.
 ![demo](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/0859737c-d79e-440f-a400-5aa9097ed818)
 ### Key Features
@@ -64,14 +64,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository.
 5. Submit a pull request to the original repository.
 ```
-## About MiniAILive
-MiniAILive is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
+## About MiniAiLive
+MiniAiLive is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
 
 ## Contact
 For any inquiries or questions, please contact us at info@miniai.live.
 
 <p align="center">
-<a target="_blank" href="https://t.me/miniai_contact"><img src="https://img.shields.io/badge/telegram-@MiniAILive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
-<a target="_blank" href="https://wa.me/+18622482217"><img src="https://img.shields.io/badge/whatsapp-MiniAILive-blue.svg?logo=whatsapp" alt="www.miniai.live"></a>&emsp;
-<a target="_blank" href="skype:live:.cid.d6bad41bc5a839e?chat"><img src="https://img.shields.io/badge/skype-MiniAILive-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="https://t.me/miniai_contact"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="https://wa.me/+18622482217"><img src="https://img.shields.io/badge/whatsapp-MiniAiLive-blue.svg?logo=whatsapp" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="skype:live:.cid.d6bad41bc5a839e?chat"><img src="https://img.shields.io/badge/skype-MiniAiLive-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
 </p>
