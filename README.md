@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
    <h1> MiniAiLive Face Recognition C++ SDK </h1>
    <img src=https://www.miniai.live/wp-content/uploads/2023/03/logo_name-1-768x426.png alt="MiniAiLive Logo"
    width="300">
