@@ -1,14 +1,20 @@
-# MiniAiLive Face Recognition C++ SDK
-![miniai_logo_1_1](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/d6f693ab-1865-4f4e-b73f-fabdfe5a88f2)
-## Welcome to the MiniAiLive Face Recognition C++ SDK!
+<div style="text-align:center">
+   <h1> MiniAiLive Face Recognition C++ SDK </h1>
+   <img src=https://www.miniai.live/wp-content/uploads/2023/10/Untitled-2-01-1-300x129.png alt="MiniAiLive Logo">
+</div>
+
+## Welcome to the MiniAiLive!
 This repository contains a C++ application that demonstrates face recognition capabilities using computer vision techniques. The demo utilizes OpenCV and dlib libraries for efficient face detection and recognition.
+
 ![demo](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/0859737c-d79e-440f-a400-5aa9097ed818)
 ### Key Features
  - ### [Face detection](https://minivision.live/demo/facedetect): 
     ![face_detect](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/61f02463-09e9-4efa-b904-6f2f453d95d5)
+
     The SDK utilizes advanced computer vision techniques to detect faces in images or video frames, enabling a wide range of applications. 
  - ### [Face recognition](https://minivision.live/demo/facecompare):
  ![face_compare](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/29fcd277-f850-4b83-a5da-dc63fb5f0af7)
+
     It can recognize known faces by comparing them with a pre-defined database of individuals.
  - ### [Age estimation](https://minivision.live/demo/facedetect): 
     It can estimate the age of detected faces.
@@ -50,6 +56,7 @@ Run the compiled executable:
 We provide free license to test our SDK according to HWID.
 You can get the HWID in our SDK application.
 Follow the on-screen instructions to perform face detection and recognition.
+
 ![HWID](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/75d935ff-bf2d-4dd2-ac8f-5b356785f91a)
 ### Customization
 > - Face Database: Replace the sample face database with your own set of known faces. Ensure that you provide clear and properly labeled images for accurate recognition.
@@ -71,7 +78,7 @@ MiniAiLive is a leading AI solutions company specializing in computer vision and
 For any inquiries or questions, please contact us at info@miniai.live.
 
 <p align="center">
-<a target="_blank" href="https://t.me/miniai_contact"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
-<a target="_blank" href="https://wa.me/+18622482217"><img src="https://img.shields.io/badge/whatsapp-MiniAiLive-blue.svg?logo=whatsapp" alt="www.miniai.live"></a>&emsp;
-<a target="_blank" href="skype:live:.cid.d6bad41bc5a839e?chat"><img src="https://img.shields.io/badge/skype-MiniAiLive-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="https://t.me/Contact_MiniAiLive"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="https://wa.me/+19162702374"><img src="https://img.shields.io/badge/whatsapp-MiniAiLive-blue.svg?logo=whatsapp" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="skype:live:.cid.d6bad41bc5a839e"><img src="https://img.shields.io/badge/skype-MiniAiLive-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
 </p>
