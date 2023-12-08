@@ -1,6 +1,7 @@
 <div style="text-align:center">
    <h1> MiniAiLive Face Recognition C++ SDK </h1>
-   <img src=https://www.miniai.live/wp-content/uploads/2023/10/Untitled-2-01-1-300x129.png alt="MiniAiLive Logo">
+   <img src=https://www.miniai.live/wp-content/uploads/2023/03/logo_name-1-768x426.png alt="MiniAiLive Logo"
+   width="300">
 </div>
 
 ## Welcome to the MiniAiLive!
@@ -80,5 +81,5 @@ For any inquiries or questions, please contact us at info@miniai.live.
 <p align="center">
 <a target="_blank" href="https://t.me/Contact_MiniAiLive"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
 <a target="_blank" href="https://wa.me/+19162702374"><img src="https://img.shields.io/badge/whatsapp-MiniAiLive-blue.svg?logo=whatsapp" alt="www.miniai.live"></a>&emsp;
-<a target="_blank" href="skype:live:.cid.d6bad41bc5a839e"><img src="https://img.shields.io/badge/skype-MiniAiLive-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
+<a target="_blank" href="skype:live:.cid.d6bad41bc5a839e?chat"><img src="https://img.shields.io/badge/skype-MiniAiLive-blue.svg?logo=skype" alt="www.miniai.live"></a>&emsp;
 </p>
