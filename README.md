@@ -1,10 +1,10 @@
 <div align="center">
-   <h1> MiniAiLive Face Recognition C++ SDK </h1>
+   <h1> MiniAiLive Face Recognition Windows(C++) SDK </h1>
    <img src=https://www.miniai.live/wp-content/uploads/2023/03/logo_name-1-768x426.png alt="MiniAiLive Logo"
    width="300">
 </div>
 
-## Welcome to the MiniAiLive!
+## Welcome to the [MiniAiLive](https://www.miniai.live/)!
 This repository contains a C++ application that demonstrates face recognition capabilities using computer vision techniques. The demo utilizes OpenCV and dlib libraries for efficient face detection and recognition.
 
 ![demo](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/0859737c-d79e-440f-a400-5aa9097ed818)
@@ -31,7 +31,7 @@ This repository contains a C++ application that demonstrates face recognition ca
 ### Installation
 Clone the repository:
 
-```java 
+```
 git clone https://github.com/MiniAI/MiniAIFaceSDK.git
 ```
 
@@ -72,11 +72,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository.
 5. Submit a pull request to the original repository.
 ```
-## About MiniAiLive
-MiniAiLive is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
 
-## Contact
-For any inquiries or questions, please contact us at info@miniai.live.
+## About MiniAiLive
+[MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
+
+## Contact US
+For any inquiries or questions, please [Contact US](https://www.miniai.live/contact/)
 
 <p align="center">
 <a target="_blank" href="https://t.me/Contact_MiniAiLive"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
