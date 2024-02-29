@@ -9,19 +9,19 @@ This repository contains a C++ application that demonstrates face recognition ca
 
 ![demo](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/0859737c-d79e-440f-a400-5aa9097ed818)
 ### Key Features
- - ### [Face detection](https://minivision.live/demo/facedetect): 
+ - ### [Face detection](https://minivision.live/): 
     ![face_detect](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/61f02463-09e9-4efa-b904-6f2f453d95d5)
 
     The SDK utilizes advanced computer vision techniques to detect faces in images or video frames, enabling a wide range of applications. 
- - ### [Face recognition](https://minivision.live/demo/facecompare):
+ - ### [Face recognition](https://minivision.live/):
  ![face_compare](https://github.com/MiniAiLive/MiniAIFaceSDK/assets/136824647/29fcd277-f850-4b83-a5da-dc63fb5f0af7)
 
     It can recognize known faces by comparing them with a pre-defined database of individuals.
- - ### [Age estimation](https://minivision.live/demo/facedetect): 
+ - ### [Age estimation](https://minivision.live/): 
     It can estimate the age of detected faces.
- - ### [Gender detection](https://minivision.live/demo/facedetect):
+ - ### [Gender detection](https://minivision.live/):
     It can determine the gender of detected faces.
- - ### [Liveness detection](https://minivision.live/demo/facedetect): 
+ - ### [Liveness detection](https://minivision.live/): 
     It can detect whether a face is from a live person or a static image.
 
 ### Prerequisites
