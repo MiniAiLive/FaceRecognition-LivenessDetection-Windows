@@ -81,7 +81,7 @@ No | Project | Feature
 3 | [MiniAI-Face-Recognition-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-ServerSDK) | Face Matching, 3D Face Passive Liveness
 4 | [MiniAI-Face-Recognition-WindowsSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-WindowsSDK) | Face Matching, 3D Face Passive Liveness
 5 | [MiniAI-Face-LivenessDetection-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-AndroidSDK) | 3D Face Passive Liveness
-6 | [MiniAI-Face-LivenessDetection-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-iOS-SDK]) | 3D Face Passive Liveness
+6 | [MiniAI-Face-LivenessDetection-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-iOS-SDK) | 3D Face Passive Liveness
 7 | [MiniAI-Face-LivenessDetection-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-ServerSDK) | 3D Face Passive Liveness
 
 ## About MiniAiLive
